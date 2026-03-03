@@ -1,70 +1,49 @@
-# Aaravvv
-My Personal Repo
-# Hi there👋,Welcome!
-Hello!🙋‍♂️ My name is Aarav Gupta. 
-🎓 I am from Birla Institute of Technology, Mesra pursuing Production and Industrial Engineering.👨‍🎓
+<h1 align="center">Hi 👋, I'm Aarav Gupta</h1>
+<h3 align="center">Production and Industrial Engineering | Data Analytics | Supply Chain Enthusiast </h3>
 
-🚀 Industrial Engineering Student | Data Analytics Enthusiast | Operations & Optimization Learner.
+---
 
-I’m passionate about solving real-world operational problems using data-driven decision making and engineering thinking.
+### 🚀 About Me
+- 🎓 Production and Industrial Engineering student
+- 📊 Google Data Analytics Certified
+- ⚙️ Passionate about Operations, Supply Chain & Process Optimization
+- 🛠️ SolidWorks enthusiast (Industrial Layouts & Assemblies)
+- 📈 Interested in data-driven business decision making
 
-My focus lies at the intersection of:
+---
 
-- 📊 Data Analytics
-- ⚙️ Industrial & Operations Engineering
-- 📦 Supply Chain Optimization
-- 🛠️ SolidWorks & System Design
-- 📈 Business & Process Improvement
+### 🧠 Tech Stack
 
-### 🧠 My Core Skills
+#### 📊 Analytics
+![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboarding-yellow)
+![Python](https://img.shields.io/badge/Python-Learning-orange)
 
-### 📊 Data & Analytics
-- SQL
-- Excel (Advanced)
-- Power BI and Tableau
-- Data Cleaning & Transformation
-- Exploratory Data Analysis
-- Quantitative Techniques for Data Analysis
+#### ⚙️ Engineering
+![SolidWorks](https://img.shields.io/badge/SolidWorks-3D%20CAD-red)
+![Operations](https://img.shields.io/badge/Operations-Optimization-blueviolet)
+![Quantitative Techniques for Data Analysis]
+![Supply Chain Management]
 
-  ### ⚙️Engineering and Systems
-- Solidworks( Parts, Assemblies, Drawings)
-- Quantitative Techniques for Data Anlaysis
-- Supply Chain Management
-- Production and Operations Management
+---
 
-## 📂 Featured Projects
+### 📌 Featured Projects
+- 🚲 Cyclistic Bike-Share Analytics (SQL + Power BI)
+- 📦 Inventory Optimization & EOQ Modeling
+- ⚙️ Industrial Workstation Layout (SolidWorks)
+- 💱 Supply Chain Cost Optimization (Excel)
 
-🚲 **Cyclistic Bike-Share Analytics**
-- SQL-based data cleaning & aggregation
-- Behavioral segmentation analysis
-- Executive Power BI dashboard
-- Business conversion recommendations
 
-📦 **Operations & Inventory Optimization**
-- Demand analysis
-- EOQ & ABC classification
-- KPI dashboard creation using PowerBI 
+---
 
-⚙️ **Industrial Layout Design (SolidWorks)**
-- Assembly modeling
-- Workstation optimization
-- Manufacturing documentation
+### 📈 GitHub Stats
+![Aarav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
- 💱 **Supply Chain Cost Optimization – Excel**
-- Solved transportation problems using Excel Solver to minimize
-logistics costs.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
-## 🎯 Career Interests
+---
 
-I am particularly interested in roles related to:
-
-- Data Analyst
-- Operations Analyst
-- Supply Chain Analyst
-- Industrial Engineer
-- Consulting (Operations & Strategy)
-
-## 📫 Let's Connect
-
-- LinkedIn: [www.linkedin.com/in/aarav-gupta-914299367]
-- Email: [aaravgupta9525@gmail.com]
+### 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/aarav-gupta-914299367
+- 📧 Email: aaravgupta9525@gmail.com
