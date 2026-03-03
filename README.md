@@ -24,7 +24,7 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-3D%20CAD-red)
 ![Operations](https://img.shields.io/badge/Operations-Optimization-blueviolet)
 ![Quantitative Techniques for Data Analysis](https://img.shields.io/badge/Quantitative%20Techniques-Data%20Analysis-blue)
-![Supply Chain Management](https://img.shields.io/badge/Quantitative%20Techniques-Data%20Analysis-blue)
+![Supply Chain Management](https://img.shields.io/badge/Supply%20Chain%20Management-Analytics-green)
 
 ---
 
